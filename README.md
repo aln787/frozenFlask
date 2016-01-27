@@ -23,10 +23,6 @@ touch templates/page.html
 # add content
 touch templates/index.html
 # add content
-touch templates/tag.html
-# add content
-touch templates/_list.html
-# add content
 ```
 
 ####Virtual Env and Requirements Text
