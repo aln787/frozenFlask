@@ -12,7 +12,7 @@ pip install Flask Frozen-Flask Flask-FlatPages
 touch sitebuilder.py
 # add content
 python sitebuilder.py
-# visit localhost:8000
+# visit localhost:8002
 mkdir pages
 touch pages/hello-world.md
 # add page content
